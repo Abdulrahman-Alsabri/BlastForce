@@ -158,8 +158,8 @@
         <tr>
             <th rowspan=4>Design:</th>
             <td>Level Design:</td>
-            <td>Jinyang Dong</td>
             <td>Abdul Rahman Al-Sabri</td>
+            <td>Jinyang Dong</td>
         </tr>
         <tr>
             <td>3D Models Design:</td>
