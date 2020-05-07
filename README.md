@@ -92,8 +92,8 @@
             <td>##</td>
             <td>##</td>
             <td>##</td>
-            <td>--</td>
-            <td>--</td>
+            <td>##</td>
+            <td>##</td>
             <td></td>
             <td></td>
             <td></td>
@@ -112,9 +112,9 @@
             <td></td>
             <td></td>
             <td></td>
-            <td>--</td>
-            <td>--</td>
-            <td>--</td>
+            <td>##</td>
+            <td>##</td>
+            <td>##</td>
             <td></td>
             <td></td>
         </tr>
@@ -135,8 +135,8 @@
             <td></td>
             <td></td>
             <td></td>
-            <td>--</td>
-            <td>--</td>
+            <td>##</td>
+            <td>##</td>
         </tr>
     </tbody>
 </table>
@@ -149,36 +149,39 @@
     <tbody align="left">
         <tr>
             <th colspan=2>Team Lead:</th>
-            <th colspan=2>Todd</th>
+            <th colspan=2>Todd St. Onge</th>
         </tr>
         <tr>
             <th colspan=2>Github Manager:</th>
-            <th colspan=2>Abdul</th>
+            <th colspan=2>Abdul Rahman Al-Sabri</th>
         </tr>
         <tr>
-            <th rowspan=3>Design:</th>
+            <th rowspan=4>Design:</th>
             <td>Level Design:</td>
-            <td>Jinyang</td>
-            <td>Todd</td>
+            <td>Jinyang Dong</td>
+            <td>Abdul Rahman Al-Sabri</td>
         </tr>
         <tr>
             <td>3D Models Design:</td>
-            <td colspan=2>Todd</td>
+            <td colspan=2>Todd St. Onge</td>
         </tr>
         <tr>
             <td>3D Models Animation:</td>
-            <td colspan=2>Homero</td>
+            <td colspan=2>Homero Garza</td>
+        </tr>
+        <tr>
+            <td>3D Models Textures:</td>
+            <td colspan=2>Jordan Arevalos</td>
         </tr>
         <tr>
             <th rowspan=3>Implementation:</th>
             <td>Player/Level/Environment Programmer:</td>
-            <td>Abdul</td>
-            <td>Alsalt</td>
+            <td>Abdul Rahman Al-Sabri</td>
+            <td>Alsalt Al-Fahdi</td>
         </tr>
         <tr>
             <td>Sound</td>
-            <td>Jordan</td>
-            <td>Alsalt</td>
+            <td colspan=2>Alsalt Al-Fahdi</td>
         </tr>
     </tbody>
 </table>
@@ -189,7 +192,7 @@
 $ git clone https://github.com/AsaltAlfahdi/BlastForce.git
 ```
 #
-##### To get the most updated version of a previously cloned repository, use the following command:
+##### To get the most updated version of a previously cloned repository, use the following commands:
 ```
 $ cd /path/of/repo
 $ git fetch origin
@@ -224,7 +227,7 @@ Result of commands:
  delete mode 100644 .DS_Store
 ```
 #
-##### To push commited changes of a cloned repository,  use the following commands:
+##### To push commited changes of a cloned repository,  use the following command:
 ```
 $ git push origin master
 ```
