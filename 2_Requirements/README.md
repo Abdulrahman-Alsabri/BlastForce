@@ -11,3 +11,6 @@
 8. The game shall support the player character jumping over obstacles or enemies.
 9. The game shall support enemies with abilities (shooting, flying, chasing).
 10. The game shall display the player’s score.
+#
+### Final Update:
+#### All Requirements Are Met Successfully
